@@ -1,0 +1,6 @@
+# ninja log v5
+5	138	7129698652344485	CMakeFiles/SymbolTabelProject.dir/main.cpp.obj	9763a262deb89e84
+17	149	7129662800158415	CMakeFiles/SymbolTabelProject.dir/stlist.cpp.obj	51feff707f5ee7e2
+1	228	7132212808009724	build.ninja	d4be0e50febc26b8
+24	474	7129688637880918	CMakeFiles/SymbolTabelProject.dir/stable.cpp.obj	bbacfc7c39a1c3ae
+139	299	7129698653903804	SymbolTabelProject.exe	9ac5f37ed2203b39
