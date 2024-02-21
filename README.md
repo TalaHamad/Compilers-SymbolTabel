@@ -1,5 +1,4 @@
 ﻿# Compilers-SymbolTabel-
-
 This project is an implementation of a symbol table data structure. A symbol table maps strings (identifiers) to records containing information about the identifier. Symbol tables are essential components of compilers, interpreters, and other software systems that need to manage named entities.
 
 **Key features:**
